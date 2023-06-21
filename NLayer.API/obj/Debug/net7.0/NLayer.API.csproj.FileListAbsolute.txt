@@ -92,3 +92,5 @@ C:\Users\durmu\source\repos\NLayerApp\NLayer.API\bin\Debug\net7.0\Microsoft.Iden
 C:\Users\durmu\source\repos\NLayerApp\NLayer.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
 C:\Users\durmu\source\repos\NLayerApp\NLayer.API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
 C:\Users\durmu\source\repos\NLayerApp\NLayer.API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\durmu\source\repos\NLayerApp\NLayer.API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\durmu\source\repos\NLayerApp\NLayer.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

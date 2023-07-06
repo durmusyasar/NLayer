@@ -81,3 +81,7 @@ C:\Users\durmu\source\repos\NLayerApp\NLayer.WEB\bin\Debug\net7.0\Mono.TextTempl
 C:\Users\durmu\source\repos\NLayerApp\NLayer.WEB\bin\Debug\net7.0\System.CodeDom.dll
 C:\Users\durmu\source\repos\NLayerApp\NLayer.WEB\bin\Debug\net7.0\AutoMapper.dll
 C:\Users\durmu\source\repos\NLayerApp\NLayer.WEB\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\durmu\source\repos\NLayerApp\NLayer.WEB\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\durmu\source\repos\NLayerApp\NLayer.WEB\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\durmu\source\repos\NLayerApp\NLayer.WEB\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\durmu\source\repos\NLayerApp\NLayer.WEB\obj\Debug\net7.0\NLayer.WEB.MvcApplicationPartsAssemblyInfo.cs

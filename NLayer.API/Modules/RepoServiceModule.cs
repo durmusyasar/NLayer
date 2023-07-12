@@ -12,6 +12,10 @@ using Module = Autofac.Module;
 
 namespace NLayer.API.Modules
 {
+    /// <summary>
+    /// Built-in Container'dan daha yeteneklidir. Autofac'in farkı constructor ve method injection'ın yanında property injection'da sağlar.
+    /// Autofac Dinamik olarak nesne ekleme özelliği katar.
+    /// </summary>
     public class RepoServiceModule : Module
     {
         protected override void Load(ContainerBuilder builder)

@@ -85,3 +85,15 @@ C:\Users\durmu\source\repos\NLayerApp\NLayer.WEB\bin\Debug\net7.0\FluentValidati
 C:\Users\durmu\source\repos\NLayerApp\NLayer.WEB\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
 C:\Users\durmu\source\repos\NLayerApp\NLayer.WEB\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\durmu\source\repos\NLayerApp\NLayer.WEB\obj\Debug\net7.0\NLayer.WEB.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\durmu\source\repos\NLayerApp\NLayer.WEB\bin\Debug\net7.0\NLayer.API.deps.json
+C:\Users\durmu\source\repos\NLayerApp\NLayer.WEB\bin\Debug\net7.0\NLayer.API.runtimeconfig.json
+C:\Users\durmu\source\repos\NLayerApp\NLayer.WEB\bin\Debug\net7.0\NLayer.API.exe
+C:\Users\durmu\source\repos\NLayerApp\NLayer.WEB\bin\Debug\net7.0\Autofac.dll
+C:\Users\durmu\source\repos\NLayerApp\NLayer.WEB\bin\Debug\net7.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\durmu\source\repos\NLayerApp\NLayer.WEB\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\durmu\source\repos\NLayerApp\NLayer.WEB\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\durmu\source\repos\NLayerApp\NLayer.WEB\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\durmu\source\repos\NLayerApp\NLayer.WEB\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\durmu\source\repos\NLayerApp\NLayer.WEB\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\durmu\source\repos\NLayerApp\NLayer.WEB\bin\Debug\net7.0\NLayer.API.dll
+C:\Users\durmu\source\repos\NLayerApp\NLayer.WEB\bin\Debug\net7.0\NLayer.API.pdb

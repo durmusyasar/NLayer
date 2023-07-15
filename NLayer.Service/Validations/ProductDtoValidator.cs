@@ -3,7 +3,7 @@ using NLayer.Core.DTOs;
 
 namespace NLayer.Service.Validations
 {
-    public class ProductDtoValidator: AbstractValidator<ProductDTO>
+    public class ProductDtoValidator : AbstractValidator<ProductDTO>
     {
         public ProductDtoValidator()
         {

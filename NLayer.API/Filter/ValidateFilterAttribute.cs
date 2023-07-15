@@ -9,7 +9,7 @@ namespace NLayer.API.Filter
     {
         public override void OnActionExecuted(ActionExecutedContext context)
         {
-            if(!context.ModelState.IsValid)
+            if (!context.ModelState.IsValid)
             {
                 var errors = context.ModelState.Values.SelectMany(x => x.Errors).Select(x => x.ErrorMessage).ToList();
                 context.Result = new BadRequestObjectResult(CustomResponseDto<NoContentDto>.Fail((int)HttpStatusCode.BadRequest, errors));

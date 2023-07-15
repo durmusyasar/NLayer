@@ -44,7 +44,7 @@ namespace NLayer.Service.Services
 
         public async Task<T> GetByIdAsync(int id)
         {
-            var hasProduct =  await _repository.GetByIdAsync(id);
+            var hasProduct = await _repository.GetByIdAsync(id);
             if (hasProduct == null)
                 throw new ClientSideException($"{typeof(T).Name} {id} not found");
             return hasProduct;

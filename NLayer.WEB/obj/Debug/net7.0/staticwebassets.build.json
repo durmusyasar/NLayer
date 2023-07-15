@@ -1,11 +1,23 @@
 {
   "Version": 1,
-  "Hash": "2cTpkkTnP8+4yEWZtMJSPT79me2JFJzNpkeSBN33dF0=",
+  "Hash": "rA+OVdgr7Lj3sg1SrUq2h+evjXA/7dO2dHdqNUHO2PY=",
   "Source": "NLayer.WEB",
   "BasePath": "_content/NLayer.WEB",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\durmu\\source\\repos\\NLayerApp\\NLayer.API\\NLayer.API.csproj",
+      "Version": 2,
+      "Source": "NLayer.API",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
   "DiscoveryPatterns": [
     {
       "Name": "NLayer.WEB\\wwwroot",

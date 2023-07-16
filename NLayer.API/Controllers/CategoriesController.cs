@@ -3,7 +3,7 @@ using NLayer.Core.Services;
 
 namespace NLayer.API.Controllers
 {
-    public class CategoriesController : CutomBaseController
+    public class CategoriesController : CustomBaseController
     {
         private readonly ICategoryService _categoryService;
 

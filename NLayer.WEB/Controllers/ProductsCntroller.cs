@@ -32,7 +32,7 @@ namespace NLayer.Web.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Save(ProductDTO productDto)
+        public async Task<IActionResult> Save(ProductDto productDto)
         {
             if (ModelState.IsValid)
             {
@@ -56,7 +56,7 @@ namespace NLayer.Web.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Update(ProductDTO productDto)
+        public async Task<IActionResult> Update(ProductDto productDto)
         {
             if (ModelState.IsValid)
             {

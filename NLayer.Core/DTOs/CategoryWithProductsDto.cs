@@ -2,6 +2,6 @@
 {
     public class CategoryWithProductsDto : CategoryDto
     {
-        public List<ProductDTO> Products { get; set; }
+        public List<ProductDto> Products { get; set; }
     }
 }
